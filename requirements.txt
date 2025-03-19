@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+openpyxl
+plotly
